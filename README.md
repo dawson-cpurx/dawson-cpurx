@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @dawson-cpurx
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning Network+
-- 💞️ I’m looking to collaborate on Cloud Gaming
-- 📫 How to reach me: dawson@cpurxinc.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Quinn main
+**This repo is supposed to used as config by NvChad users!**
 
+- The main nvchad repo (NvChad/NvChad) is used as a plugin by this repo.
+- So you just import its modules , like `require "nvchad.options" , require "nvchad.mappings"`
+- So you can delete the .git from this repo ( when you clone it locally ) or fork it :)
+
+# Credits
+
+1) Lazyvim starter https://github.com/LazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
